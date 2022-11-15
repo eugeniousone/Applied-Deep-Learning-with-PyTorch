@@ -31,7 +31,7 @@ pandocfilters==1.4.2
 parso==0.3.4
 pbr==5.1.2
 pickleshare==0.7.5
-Pillow==5.4.1
+Pillow==9.2.0
 prometheus-client==0.5.0
 prompt-toolkit==2.0.8
 Pygments==2.3.1
@@ -58,3 +58,4 @@ wcwidth==0.1.7
 webencodings==0.5.1
 widgetsnbextension==3.4.2
 xlrd==1.2.0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability

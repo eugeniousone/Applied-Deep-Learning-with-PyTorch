@@ -15,7 +15,7 @@ jsonschema==2.6.0
 jupyter==1.0.0
 jupyter-client==5.2.4
 jupyter-console==6.0.0
-jupyter-core==4.4.0
+jupyter-core==5.8.0
 jupytext==0.8.6
 kiwisolver==1.0.1
 MarkupSafe==1.1.0
@@ -50,7 +50,7 @@ sklearn==0.0
 terminado==0.8.1
 testfixtures==6.5.2
 testpath==0.4.2
-torch==1.0.1
+torch==2.7.1
 torchvision==0.2.1
 tornado==5.1.1
 traitlets==4.3.2
